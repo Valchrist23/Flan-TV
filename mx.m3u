@@ -1,16 +1,3 @@
-#EXTM3U
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", :: SR. REGIO ::
-http://regioplay.xyz/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///imagenpng.com/wp-content/uploads/2016/09/Paypal-Logo-PNG-0.png", http://paypal.me/SrRegio
-http://regioplay.xyz/sr_regioooooo.php
-#EXTINF:0 tvg-logo="https://www.facebook.com/images/fb_icon_325x325.png", @RegioPlay.Oficial
-http://regioplay.xyz/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", @SrRegio
-http://regioplay.xyz/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", t.me/SrRegioGrupo
-http://regioplay.xyz/sr_regioooooo.php
-
-#EXTINF:-1, :: REGIO CHANNEL :: (EVENTOS)
 http://regioplay.xyz/php/SR_REGIO_910112_/th.php?channel=srregio&f.m3u8
 #EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", DREIKO TV
 http://regioplay.xyz/php/SR_REGIO_910112_/dreiko.php?f=.m3u8
@@ -18,7 +5,7 @@ http://regioplay.xyz/php/SR_REGIO_910112_/dreiko.php?f=.m3u8
 https://kanadetvlatino-usct.streaming.media.azure.net/66afd58d-114f-48d5-bc00-aa6cd5203912/80e7baff-9e17-4bad-8058-93e7160fe85a.ism/manifest(format=m3u8-aapl)
 #EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", MULTIMEDIOS MTY
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Multimedios_CR_44_logo.svg/1200px-Multimedios_CR_44_logo.svg.png" group-title="Lista TV" tvg-id="Lista TV", MULTIMEDIOS MTY
 http://regioplay.xyz/php/SR_REGIO_910112_/multimedios.php?f=.m3u8
 #EXTINF:-1   group-title="Lista TV" tvg-id="Lista TV", WOW TV
 https://regioplay.xyz/php/SR_REGIO_910112_/wowtv.php
@@ -32,11 +19,11 @@ https://rtvelivestreamv3.akamaized.net/la2_main_dvr.m3u8
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA UNO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tv-azteca/images/9/98/Uno.png/revision/latest?cb=20200323172904&path-prefix=es" group-title="Lista TV", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="Lista TV", AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA 7.2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="Lista TV", AZTECA 7.2
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
