@@ -374,35 +374,36 @@ http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=223&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1024px-VH1_logonew.svg.png" group-title="Música", VH1 HD
 http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=334&p=3&k=srregio&f=.m3u8  
 
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Multimedios_Canal_Seis_Logo.png/revision/latest/scale-to-width-down/225?cb=20210617030312&path-prefix=es" group-title="" , CANAL 6 MTY (MULTIMEDIOS)
+*** EXTRAS ***
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Multimedios_Canal_Seis_Logo.png/revision/latest/scale-to-width-down/225?cb=20210617030312&path-prefix=es" group-title="Extras" , CANAL 6 MTY (MULTIMEDIOS)
 http://regioplay.xyz/php/SR_REGIO_910112_/multimedios.php?f=.m3u8
-#EXTINF:-1  tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="", WOW TV
+#EXTINF:-1  tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="Extras", WOW TV
 https://regioplay.xyz/php/SR_REGIO_910112_/wowtv.php
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/NETTVArgentina.png/revision/latest?cb=20210315130131&path-prefix=es" group-title="", NET TV
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/NETTVArgentina.png/revision/latest?cb=20210315130131&path-prefix=es" group-title="Extras", NET TV
 http://regioplay.xyz/php/SR_REGIO_910112_/nettv.php?f=.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/800px-Star_Channel_2021.png" group-title="", Star Channel
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/800px-Star_Channel_2021.png" group-title="Extras", Star Channel
 https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TVE2_logo.png/673px-TVE2_logo.png" group-title="", LA 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TVE2_logo.png/673px-TVE2_logo.png" group-title="Extras", LA 2
 https://rtvelivestreamv3.akamaized.net/la2_main_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/rtspan.png" group-title="", RT ESPAÑOL
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/rtspan.png" group-title="Extras", RT ESPAÑOL
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="", ESTRELLA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Extras", ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Azteca_Uno_2020.svg/2274px-Azteca_Uno_2020.svg.png" group-title="", AZTECA UNO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Azteca_Uno_2020.svg/2274px-Azteca_Uno_2020.svg.png" group-title="Extras", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Azteca_7_2016.svg/revision/latest/scale-to-width-down/520?cb=20210516043012&path-prefix=es" group-title="", AZTECA 7
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Azteca_7_2016.svg/revision/latest/scale-to-width-down/520?cb=20210516043012&path-prefix=es" group-title="Extras", AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/A_M%C3%A1s_2021.jpg/revision/latest/scale-to-width-down/450?cb=20210412175646&path-prefix=es" group-title="", A MÁS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/A_M%C3%A1s_2021.jpg/revision/latest/scale-to-width-down/450?cb=20210412175646&path-prefix=es" group-title="Extras", A MÁS
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/XHTVM_-_ADN40.png/revision/latest/scale-to-width-down/614?cb=20210519160318&path-prefix=es" group-title="", ADN40
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/XHTVM_-_ADN40.png/revision/latest/scale-to-width-down/614?cb=20210519160318&path-prefix=es" group-title="Extras", ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-logo="" group-title="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online.png", CANAL 26 AGUASCALIENTES
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online.png" group-title="Extras", CANAL 26 AGUASCALIENTES
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", LATINOS TV
+#EXTINF:-1 tvg-logo="" group-title="Extras", LATINOS TV
 https://cloud2.streaminglivehd.com:1936/8044/8044/.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/VR2021.png/revision/latest?cb=20210705185957" group-title="", VIDEOROLA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/VR2021.png/revision/latest?cb=20210705185957" group-title="Extras", VIDEOROLA
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online.png" group-title="", CANAL 26 AGUASCALIENTES
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online.png" group-title="Extras", CANAL 26 AGUASCALIENTES
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Sketch-1590402131314.png/revision/latest/scale-to-width-down/1000?cb=20210102155125&path-prefix=es" group-title="", PAKA PAKA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Sketch-1590402131314.png/revision/latest/scale-to-width-down/1000?cb=20210102155125&path-prefix=es" group-title="Extras", PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
