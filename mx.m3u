@@ -1,36 +1,3 @@
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Multimedios_Canal_Seis_Logo.png/revision/latest/scale-to-width-down/225?cb=20210617030312&path-prefix=es" group-title="" , CANAL 6 MTY (MULTIMEDIOS)
-http://regioplay.xyz/php/SR_REGIO_910112_/multimedios.php?f=.m3u8
-#EXTINF:-1  tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="", WOW TV
-https://regioplay.xyz/php/SR_REGIO_910112_/wowtv.php
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/NETTVArgentina.png/revision/latest?cb=20210315130131&path-prefix=es" group-title="", NET TV
-http://regioplay.xyz/php/SR_REGIO_910112_/nettv.php?f=.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/800px-Star_Channel_2021.png" group-title="", Star Channel
-https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TVE2_logo.png/673px-TVE2_logo.png" group-title="", LA 2
-https://rtvelivestreamv3.akamaized.net/la2_main_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/rtspan.png" group-title="", RT ESPAÑOL
-https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="", ESTRELLA TV
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Azteca_Uno_2020.svg/2274px-Azteca_Uno_2020.svg.png" group-title="", AZTECA UNO
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Azteca_7_2016.svg/revision/latest/scale-to-width-down/520?cb=20210516043012&path-prefix=es" group-title="", AZTECA 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/A_M%C3%A1s_2021.jpg/revision/latest/scale-to-width-down/450?cb=20210412175646&path-prefix=es" group-title="", A MÁS
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/XHTVM_-_ADN40.png/revision/latest/scale-to-width-down/614?cb=20210519160318&path-prefix=es" group-title="", ADN40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-logo="" group-title="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online.png", CANAL 26 AGUASCALIENTES
-http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", LATINOS TV
-https://cloud2.streaminglivehd.com:1936/8044/8044/.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/VR2021.png/revision/latest?cb=20210705185957" group-title="", VIDEOROLA
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online.png" group-title="", CANAL 26 AGUASCALIENTES
-http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Sketch-1590402131314.png/revision/latest/scale-to-width-down/1000?cb=20210102155125&path-prefix=es" group-title="", PAKA PAKA
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
-
 *** NACIONALES ***
 #EXTINF:-1 tvg-logo="https://onceninasyninos.tv/wp-content/uploads/2020/01/Logo_Transparencia_legales.png-4.png" group-title="Nacionales", ONCE NIÑAS Y NIÑOS (CLASES)
 http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=3315&p=3&k=srregio&f=.m3u8
@@ -103,7 +70,55 @@ http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2324&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.canaldelcongreso.gob.mx/Resources/Images/App/Logo_CC_451.png" group-title="Nacionales", CANAL DEL CONGRESO
 http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2331&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="" group-title="Nacionales", ACADEMIA
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2703&p=3&k=srregio&f=.m3u8 
+http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2703&p=3&k=srregio&f=.m3u8
+
+*** NOTICIAS ***
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="Noticias", FOROTV HD
+http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=4&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="Noticias", FOROTV SD
+http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=19&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/XHTVM_-_ADN40.png/revision/latest/scale-to-width-down/614?cb=20210519160318&path-prefix=es" group-title="Noticias", ADN40
+http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=40&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/XHTVM_-_ADN40.png/revision/latest/scale-to-width-down/614?cb=20210519160318&path-prefix=es" group-title="Noticias", ADN40 HD
+http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=184&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-logo="http://assets.stickpng.com/images/5842ab75a6515b1e0ad75b0b.png" group-title="Noticias", CNN
+http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=185&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-logo="http://assets.stickpng.com/images/5842ab75a6515b1e0ad75b0b.png" group-title="Noticias", CNN SD
+http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=186&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/CNN_en_Espa%C3%B1ol_2014.png/revision/latest/scale-to-width-down/220?cb=20160621221353&path-prefix=es" group-title="Noticias", CNN Ñ SD
+http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=187&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/WOBI_logo.png" group-title="Noticias", WOBI 
+http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=102&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Fox_News_Channel_%282017%29.svg/revision/latest/scale-to-width-down/200?cb=20200106173131&path-prefix=es" group-title="Noticias", FOX NEWS
+http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=188&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/50-504022_bloomberg-logo-white-transparent.png" group-title="Noticias", BLOOMBERG 
+http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=190&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/1024px-BBC_News_2019.svg.png" group-title="Noticias", BBC SD
+http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=191&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/33/701/png-transparent-al-jazeera-english-united-states-al-jazeera-america-television-united-states-television-text-logo.png" group-title="Noticias", AL JAAZERA 
+http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=192&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/1200px-NTN24_logo.svg.png" group-title="Noticias", NTN 24
+http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=194&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://justiciatv.pj.gob.pe/wp-content/uploads/2016/05/logo.png" group-title="Noticias", JUSTICIA TV 
+http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=196&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/1200px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="Noticias", HLN
+http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=197&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png" group-title="Noticias", DW 
+http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=203&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20190212/ukv/kisspng-rt-television-channel-logo-tableau-5c633630768c42.4392292815500058084856.jpg" group-title="Noticias", RT
+http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=999&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MILENIO_Logo.png" group-title="Noticias", MILENIO HD
+http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1250&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MILENIO_Logo.png" group-title="Noticias", MILENIO SD 
+http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1252&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v4/img/dummy-img/channels/ExcelsiorTv.png" group-title="Noticias", EXCELSIOR TV
+http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1449&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/El_Financiero_Logo.svg/1280px-El_Financiero_Logo.svg.png" group-title="Noticias", EL FINANCIERO HD 
+http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1649&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/RT_ESPANOL_2018.png/revision/latest/scale-to-width-down/195?cb=20210514191231&path-prefix=es" group-title="Noticias", RT ESPAÑOL
+http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2091&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png" group-title="Noticias", FRANCE 24
+http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2402&p=3&k=srregio&f=.m3u8  
 
 *** INFANTILES ***
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="Infantiles", TOONCAST
@@ -359,51 +374,35 @@ http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=223&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1024px-VH1_logonew.svg.png" group-title="Música", VH1 HD
 http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=334&p=3&k=srregio&f=.m3u8  
 
-
-*** NOTICIAS ***
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="Noticias", FOROTV HD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=4&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="Noticias", FOROTV SD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=19&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/XHTVM_-_ADN40.png/revision/latest/scale-to-width-down/614?cb=20210519160318&path-prefix=es" group-title="Noticias", ADN40
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=40&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 tvg-logo="hhttps://static.wikia.nocookie.net/logopedia/images/a/a3/XHTVM_-_ADN40.png/revision/latest/scale-to-width-down/614?cb=20210519160318&path-prefix=es" group-title="Noticias", ADN40 HD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=184&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="http://assets.stickpng.com/images/5842ab75a6515b1e0ad75b0b.png" group-title="Noticias", CNN
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=185&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="http://assets.stickpng.com/images/5842ab75a6515b1e0ad75b0b.png" group-title="Noticias", CNN SD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=186&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/CNN_en_Espa%C3%B1ol_2014.png/revision/latest/scale-to-width-down/220?cb=20160621221353&path-prefix=es" group-title="Noticias", CNN Ñ SD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=187&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/WOBI_logo.png" group-title="Noticias", WOBI 
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=102&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Fox_News_Channel_%282017%29.svg/revision/latest/scale-to-width-down/200?cb=20200106173131&path-prefix=es" group-title="Noticias", FOX NEWS
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=188&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1280px-New_Bloomberg_Logo.svg.png" group-title="Noticias", BLOOMBERG 
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=190&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/1024px-BBC_News_2019.svg.png" group-title="Noticias", BBC SD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=191&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/33/701/png-transparent-al-jazeera-english-united-states-al-jazeera-america-television-united-states-television-text-logo.png" group-title="Noticias", AL JAAZERA 
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=192&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/1200px-NTN24_logo.svg.png" group-title="Noticias", NTN 24
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=194&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://justiciatv.pj.gob.pe/wp-content/uploads/2016/05/logo.png" group-title="Noticias", JUSTICIA TV 
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=196&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/1200px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="Noticias", HLN
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=197&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png" group-title="Noticias", DW 
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=203&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20190212/ukv/kisspng-rt-television-channel-logo-tableau-5c633630768c42.4392292815500058084856.jpg" group-title="Noticias", RT
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=999&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MILENIO_Logo.png" group-title="Noticias", MILENIO HD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1250&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MILENIO_Logo.png" group-title="Noticias", MILENIO SD 
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1252&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v4/img/dummy-img/channels/ExcelsiorTv.png" group-title="Noticias", EXCELSIOR TV
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1449&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="" group-title="Noticias", EL FINANCIERO HD 
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1649&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://tvepg.eu/img/spain/logo/rt_espanol.png" group-title="Noticias", RT ESPAÑOL
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2091&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png" group-title="Noticias", FRANCE 24
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2402&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Multimedios_Canal_Seis_Logo.png/revision/latest/scale-to-width-down/225?cb=20210617030312&path-prefix=es" group-title="" , CANAL 6 MTY (MULTIMEDIOS)
+http://regioplay.xyz/php/SR_REGIO_910112_/multimedios.php?f=.m3u8
+#EXTINF:-1  tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="", WOW TV
+https://regioplay.xyz/php/SR_REGIO_910112_/wowtv.php
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/NETTVArgentina.png/revision/latest?cb=20210315130131&path-prefix=es" group-title="", NET TV
+http://regioplay.xyz/php/SR_REGIO_910112_/nettv.php?f=.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/800px-Star_Channel_2021.png" group-title="", Star Channel
+https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TVE2_logo.png/673px-TVE2_logo.png" group-title="", LA 2
+https://rtvelivestreamv3.akamaized.net/la2_main_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/rtspan.png" group-title="", RT ESPAÑOL
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="", ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Azteca_Uno_2020.svg/2274px-Azteca_Uno_2020.svg.png" group-title="", AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Azteca_7_2016.svg/revision/latest/scale-to-width-down/520?cb=20210516043012&path-prefix=es" group-title="", AZTECA 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/A_M%C3%A1s_2021.jpg/revision/latest/scale-to-width-down/450?cb=20210412175646&path-prefix=es" group-title="", A MÁS
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/XHTVM_-_ADN40.png/revision/latest/scale-to-width-down/614?cb=20210519160318&path-prefix=es" group-title="", ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-logo="" group-title="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online.png", CANAL 26 AGUASCALIENTES
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", LATINOS TV
+https://cloud2.streaminglivehd.com:1936/8044/8044/.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/VR2021.png/revision/latest?cb=20210705185957" group-title="", VIDEOROLA
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online.png" group-title="", CANAL 26 AGUASCALIENTES
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Sketch-1590402131314.png/revision/latest/scale-to-width-down/1000?cb=20210102155125&path-prefix=es" group-title="", PAKA PAKA
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
