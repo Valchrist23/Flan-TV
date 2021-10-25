@@ -248,7 +248,7 @@ PakaPaka | SD |
 ## Uso
 Inserta este enlace en tu cliente IPTV preferido para añadir la lista `.m3u`
 ```
-https://bit.ly/3meW6F0
+https://bit.ly/FlanTV
 ```
 Guía EPG (opcional)
 ```
