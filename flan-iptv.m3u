@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mx/mi.tv.epg.xml"
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/01d7e2_fcd8abc10d94492692239832c862d94d~mv2.png/v1/fill/w_560,h_320,al_c,q_85,usm_0.66_1.00_0.01/Flan.webp", FLAN TV
-https://github.com/gecherz/Flan-TV
+https://github.com/gerssh/Flan-TV
 
 *** NACIONALES ***
 #EXTINF:-1 tvg-logo="https://onceninasyninos.tv/wp-content/uploads/2020/01/Logo_Transparencia_legales.png-4.png" group-title="Nacionales" audio-track="spa", ONCE NIÑAS Y NIÑOS (CLASES)
