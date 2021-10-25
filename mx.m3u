@@ -172,7 +172,7 @@ http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=126&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=128&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="Cine" audio-track="spa" tvg-id="SpaceMexico.ar", SPACE
 http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=129&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/2560px-AMC_logo_2019.svg.png" group-title="Cine", AMC 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/2560px-AMC_logo_2019.svg.png" group-title="Cine" audio-track="spa" tvg-id="AMCMexico.us", AMC 
 http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=131&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_05/large.studio_universal_za.png.01f4e37786c9f3835625e3ff049eccd5.png" group-title="Cine" audio-track="spa" tvg-id="StudioUniversalMexico.us", STUDIO UNIVERSAL
 http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=132&p=3&k=srregio&f=.m3u8  
@@ -196,7 +196,7 @@ http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=146&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=149&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="Cine", CINEMAX 
 http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=158&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/2560px-AMC_logo_2019.svg.png" group-title="Cine", AMC  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/2560px-AMC_logo_2019.svg.png" group-title="Cine" audio-track="spa" tvge-id="AMCMexico.us", AMC  
 http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=328&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="Cine", DE PELICULA SD
 http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=335&p=3&k=srregio&f=.m3u8
