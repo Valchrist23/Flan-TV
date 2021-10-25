@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mx/mi.tv.epg.xml"
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/01d7e2_fcd8abc10d94492692239832c862d94d~mv2.png/v1/fill/w_560,h_320,al_c,q_85,usm_0.66_1.00_0.01/Flan.webp", FLAN IPTV
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/01d7e2_fcd8abc10d94492692239832c862d94d~mv2.png/v1/fill/w_560,h_320,al_c,q_85,usm_0.66_1.00_0.01/Flan.webp", FLAN TV
 https://github.com/gecherz/Flan-TV
 
 *** NACIONALES ***
@@ -215,6 +215,8 @@ http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1729&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1732&p=3&k=srregio&f=.m3u8
 
 *** ENTRETENIMIENTO ***
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/800px-Star_Channel_2021.png" group-title="Extras" audio-track="spa" tvg-id="StarChannelMexico.us", Star Channel
+https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Star_logo.svg/2560px-Star_logo.svg.png" group-title="Entretenimiento", STAR  
 http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=46&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Star_logo.svg/2560px-Star_logo.svg.png" group-title="Entretenimiento", STAR HD 
@@ -385,8 +387,6 @@ http://regioplay.xyz/php/SR_REGIO_910112_/multimedios.php?f=.m3u8
 https://regioplay.xyz/php/SR_REGIO_910112_/wowtv.php
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/NETTVArgentina.png/revision/latest?cb=20210315130131&path-prefix=es" group-title="Extras", NET TV
 http://regioplay.xyz/php/SR_REGIO_910112_/nettv.php?f=.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/800px-Star_Channel_2021.png" group-title="Extras" audio-track="spa" tvg-id="StarChannelMexico.us", Star Channel
-https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TVE2_logo.png/673px-TVE2_logo.png" group-title="Extras", LA 2
 https://rtvelivestreamv3.akamaized.net/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/rtspan.png" group-title="Extras", RT ESPAÑOL
